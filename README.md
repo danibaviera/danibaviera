@@ -7,6 +7,8 @@ Todo dia sofrendo um pouco para me desenvolver melhor :)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![SQL#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white](https://miro.medium.com/v2/resize:fit:828/format:webp/0*HG5EWXll_QCdu02-))
+
 
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieli-baviera/)
