@@ -1,4 +1,4 @@
-# Olar!! Eu sou a Dani, estudante de desenvolvimento de software pela Fiap + Alura
+# Olar!! Eu sou a Dani, estudante de desenvolvimento de software.
 
 Todo dia sofrendo um pouco para me desenvolver melhor :) 
 
