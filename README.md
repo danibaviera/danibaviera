@@ -1,14 +1,16 @@
-# Olar!! Eu sou a Dani, estudante de desenvolvimento de software.
+# Hi there! I'm Dani, a software development graduate.
 
-Todo dia sofrendo um pouco para me desenvolver melhor :) 
+Currently diving into Python automation with Iterasys — learning a bit (and struggling a bit) every day to get better! 🚀
 
-### Tecnologias que estou tentando aprender:
+### Technologies I'm exploring:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
 
 
 ### Conecte-se comigo:
