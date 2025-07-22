@@ -1,6 +1,6 @@
 # Hi there! I'm Dani, a software development graduate.
 
-Currently diving into Python automation with Iterasys — learning a bit (and struggling a bit) every day to get better! 🚀
+learning a bit (and struggling a bit) every day to get better! 🚀
 
 ### Technologies I'm exploring:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
