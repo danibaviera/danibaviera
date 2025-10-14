@@ -40,20 +40,6 @@ always focused on improving data flows, integrating processes, and supporting de
 ---
 
 ### 🌐 Let's connect!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/danieli-baviera/])
----
-
-### 📊 GitHub Stats
-![Dani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
-
----
-
-> 💬 “Learning a bit (and struggling a bit) every day to get better.” 🚀
-
-
-
-### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieli-baviera/)
 
 
