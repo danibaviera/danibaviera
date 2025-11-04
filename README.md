@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Dani  
 
 🎓 **Software Development Graduate (FIAP)** | **Big Data & Analytics (FMU)**  
-💡 Passionate about **Python**, **data automation**, and **software quality**.  
+💡 I venture into **Python**, **data automation**, and **software quality**.  
 📈 Focused on **Backend Development**, **Database Administration (DBA)**, and **System Integration Testing**.
 
 ---
