@@ -56,14 +56,6 @@
 
 ---
 
-## 🧠 Currently Learning  
-- Advanced SQL and database performance tuning  
-- CI/CD pipelines and DevOps best practices  
-- Test automation for backend and APIs  
-<br>
-
----
-
 ###  A bit about me
 I'm a **Systems Analyst** passionate about understanding how data and systems connect  from APIs to databases   
 and ensuring every part of the process delivers with **quality, reliability, and performance**.  
