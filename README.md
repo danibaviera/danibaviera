@@ -1,11 +1,11 @@
-#  Hi there! I'm Dani  
+# 👋 Hi there! I'm Dani  
 
- Currently studying **Database Engineering**  
+- learning a bit (and struggling a bit) every day to get better! 🚀
 
-learning a bit (and struggling a bit) every day to get better!   
- **Software Development Graduate (FIAP)** | **Big Data & Analytics (FMU)**  
- Passionate about **Python**, **data automation**, and **software quality**.  
- Focused on **Backend Development**, **Database Administration (DBA)**, and **System Integration Testing**.
+🗄️ Currently studying **Database Engineering**  
+🎓 **Postgraduate in Software Development (FIAP)** | Graduated in **Big Data and Analysis (FMU)**
+💡 I venture into **Python**, **data automation**, and **software quality**.  
+📈 Focused on **Backend Development**, **Database Administration (DBA)**, and **System Integration Testing**.
 
 ---
 ###  What I'm currently exploring:
