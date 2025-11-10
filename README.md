@@ -1,19 +1,24 @@
 # 👋 Hi there! I'm Dani  
 
-- learning a bit (and struggling a bit) every day to get better! 🚀
+💬 *Learning a bit (and struggling a bit) every day to get better!* 🚀  
+<br>
 
 🗄️ Currently studying **Database Engineering**  
-🎓 **Postgraduate in Software Development (FIAP)** | Graduated in **Big Data and Analysis (FMU)**
-💡 I venture into **Python**, **data automation**, and **software quality**.  
-📈 Focused on **Backend Development**, **Database Administration (DBA)**, and **System Integration Testing**.
+🎓 **Postgraduate in Software Development (FIAP)** | Graduated in **Big Data and Analysis (FMU)**  
+💡 I venture into **Python**, **data automation**, and **software quality**  
+📈 Focused on **Backend Development**, **Database Administration (DBA)**, and **System Integration Testing**  
+<br>
 
 ---
-###  What I'm currently exploring:
+
+### 🔍 What I'm currently exploring
+<br>
 
 **Languages & Backend:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<br>
 
 **Databases & SQL:**  
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
@@ -21,27 +26,41 @@
 ![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
 **Testing & Tools:**  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br>
 
 **Cloud & Infrastructure:**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<br>
 
 ---
 
-###  Areas of interest
--  **Backend development** in Python  
--  **Process automation** and **ETL pipelines**  
--  **Data validation** and **quality assurance**  
--  **Database Administration (DBA)** and **data modeling**  
--  **System and API testing** (manual & automated)  
--  **Integration of systems** and **API communication**  
--  Continuous learning in **software architecture** and **DevOps**
+### 💡 Areas of interest  
+- **Backend development** in Python  
+- **Process automation** and **ETL pipelines**  
+- **Data validation** and **quality assurance**  
+- **Database Administration (DBA)** and **data modeling**  
+- **System and API testing** (manual & automated)  
+- **Integration of systems** and **API communication**  
+- Continuous learning in **software architecture** and **DevOps**  
+<br>
+
+---
+
+## 🧠 Currently Learning  
+- Advanced SQL and database performance tuning  
+- CI/CD pipelines and DevOps best practices  
+- Test automation for backend and APIs  
+<br>
 
 ---
 
