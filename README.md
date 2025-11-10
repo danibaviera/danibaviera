@@ -9,6 +9,8 @@
 ### 🧠 What I'm currently exploring:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
