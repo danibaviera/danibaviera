@@ -27,6 +27,11 @@ learning a bit (and struggling a bit) every day to get better!
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+**Cloud & Infrastructure:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
 ---
 
 ###  Areas of interest
