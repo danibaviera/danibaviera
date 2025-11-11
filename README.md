@@ -68,9 +68,11 @@ always focused on improving data flows, integrating processes, and supporting de
 ###  Learn Python while playing!
 Here are some fun and interactive platforms that help you improve your **Python skills** while having fun:
 
--  [**CodeCombat**](https://codecombat.com)  Learn Python through an RPG-style coding adventure.  
--  [**CheckiO**](https://py.checkio.org/)  Solve challenges and progress through an interactive map.  
--  [**CodinGame**](https://www.codingame.com)  Build games and solve logic puzzles using Python.  
+- 🎮 [**CodeCombat**](https://codecombat.com)  Learn Python through an RPG-style coding adventure.
+- 🤖[**The Farmer Was Replaced**](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)  A puzzle automation game on Steam where you code robots to run a farm using Python logic.  
+- 🗺️ [**CheckiO**](https://py.checkio.org/)  Solve challenges and progress through an interactive map.  
+- 🧩 [**CodinGame**](https://www.codingame.com)  Build games and solve logic puzzles using Python.
+
 
 ---
 
