@@ -1,42 +1,86 @@
-# 👋 Hi there! I'm Dani  
+﻿# 👋 Hi there! I'm Dani
 
-💬 *Learning a bit (and struggling a bit) every day to get better!* 🚀  
-<br>
+💬 *Learning, building, and evolving every day - one challenge at a time* 🚀
 
-🗄️ Currently studying **Database Engineering**  
-🎓 **Postgraduate in Software Development (FIAP)** | Graduated in **Big Data and Analysis (FMU)**  
-💡 I venture into **Python**, **data automation**, and **software quality**  
-📈 Focused on **Backend Development**, **Database Administration (DBA)**, and **System Integration Testing**  
-<br>
+🗄️ Currently studying **Database Engineering and Data Governance (PUC)**  
+🎓 **Postgraduate in Software Development (FIAP)**  
+🎓 **Graduated in Big Data & Analytics (FMU)**  
+📚 **Product Management Specialization - PM3**  
+💡 I venture into **Python**, **data automation**, and **software quality**
+
+I connect product thinking, business analysis, data engineering, governance, and security architecture to build reliable and scalable systems.
 
 ---
 
 ### 🔍 What I'm currently exploring
 <br>
 
-**Languages & Backend:**  
+**🧠 Languages & Engineering:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<br>
-
-**Databases & SQL:**  
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<br>
+
+**🗃️ Databases & Data Engineering:**  
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Performance Tuning](https://img.shields.io/badge/-Performance%20Tuning-0A66C2?style=for-the-badge&logo=speedtest&logoColor=white)
+![DB Monitoring](https://img.shields.io/badge/-DB%20Monitoring-1F6FEB?style=for-the-badge&logo=datadog&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/-Data%20Pipelines-0E7490?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Data Quality](https://img.shields.io/badge/-Data%20Quality-2E8B57?style=for-the-badge&logo=checkmarx&logoColor=white)
 <br>
 
-**Testing & Tools:**  
+**🧭 Data Governance & Compliance:**  
+![DMBoK](https://img.shields.io/badge/-DMBoK%20Framework-6B21A8?style=for-the-badge&logo=bookstack&logoColor=white)
+![Data Governance](https://img.shields.io/badge/-Data%20Governance-7C3AED?style=for-the-badge&logo=opencollective&logoColor=white)
+![Data Cataloging](https://img.shields.io/badge/-Data%20Cataloging-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
+![LGPD](https://img.shields.io/badge/-LGPD-DC2626?style=for-the-badge&logo=shield&logoColor=white)
+![GDPR](https://img.shields.io/badge/-GDPR-B91C1C?style=for-the-badge&logo=securityscorecard&logoColor=white)
+<br>
+
+**🔐 Cybersecurity & Access Architecture:**  
+![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-111827?style=for-the-badge&logo=cloudflare&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/-ISO%2FIEC%2027001-0F172A?style=for-the-badge&logo=verizon&logoColor=white)
+![ISO 27003](https://img.shields.io/badge/-ISO%2FIEC%2027003-1E293B?style=for-the-badge&logo=probot&logoColor=white)
+![Security Governance](https://img.shields.io/badge/-Security%20Governance-334155?style=for-the-badge&logo=keycloak&logoColor=white)
+![SOC Basics](https://img.shields.io/badge/-Basic%20SOC%20Ops-475569?style=for-the-badge&logo=security&logoColor=white)
+![Threat Intel](https://img.shields.io/badge/-Threat%20Intel%20%26%20Risk-1D4ED8?style=for-the-badge&logo=threatconnect&logoColor=white)
+<br>
+
+**📦 Product & Business Analysis:**  
+![Product Vision](https://img.shields.io/badge/-Product%20Vision-2563EB?style=for-the-badge&logo=target&logoColor=white)
+![Product Lifecycle](https://img.shields.io/badge/-Product%20Lifecycle-1D4ED8?style=for-the-badge&logo=cycle&logoColor=white)
+![Roadmap](https://img.shields.io/badge/-Roadmap-0284C7?style=for-the-badge&logo=mapbox&logoColor=white)
+![Backlog](https://img.shields.io/badge/-Backlog-0369A1?style=for-the-badge&logo=task&logoColor=white)
+![Agile Product Dev](https://img.shields.io/badge/-Agile%20Product%20Dev-0EA5E9?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Requirements Engineering](https://img.shields.io/badge/-Requirements%20Engineering-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white)
+![User Stories](https://img.shields.io/badge/-User%20Stories%20%26%20Docs-0E7490?style=for-the-badge&logo=storybook&logoColor=white)
+![UX/UI Fundamentals](https://img.shields.io/badge/-UX%2FUI%20Fundamentals-14B8A6?style=for-the-badge&logo=figma&logoColor=white)
+<br>
+
+**🛠️ Product & Collaboration Tools:**  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Miro](https://img.shields.io/badge/-Miro-050038?style=for-the-badge&logo=miro&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+<br>
+
+**🧪 Testing & Quality Engineering:**  
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Integration Testing](https://img.shields.io/badge/-System%20Integration%20Testing-15803D?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![API Validation](https://img.shields.io/badge/-API%20Validation-16A34A?style=for-the-badge&logo=swagger&logoColor=white)
+![QA](https://img.shields.io/badge/-Software%20QA-22C55E?style=for-the-badge&logo=qase&logoColor=white)
 <br>
 
-**Cloud & Infrastructure:**  
+**☁️ Cloud & Infrastructure:**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
@@ -46,52 +90,27 @@
 
 ---
 
-### 💡 Areas of interest  
-- **Backend development** in Python  
-- **Process automation** and **ETL pipelines**  
-- **Data validation** and **quality assurance**  
-- **Database Administration (DBA)** and **data modeling**  
-- **System and API testing** (manual & automated)  
-- **Integration of systems** and **API communication**  
-- Continuous learning in **software architecture** and **DevOps**  
-<br>
+### 💡 Areas of interest
+- 🐍 Python automation
+- ⚙️ Process automation and ETL pipelines
+- ✅ Data validation and quality assurance
+- 🗄️ Database Administration (DBA) and data modeling
+- 🧪 System and API testing (manual & automated)
+- 🔗 Integration of systems and API communication
+- 🧱 Continuous learning in software architecture and DevOps
+- 🧭 Data Governance & Data Architecture
+- 🛡️ Database Reliability Engineering
+- 📡 Observability Engineering
+- 📈 Technical Product Operations
 
 ---
 
-###  A bit about me
-I'm a **Systems Analyst** passionate about understanding how data and systems connect  from APIs to databases   
-and ensuring every part of the process delivers with **quality, reliability, and performance**.  
+### 🙋 A bit about me
+I'm a Systems Analyst with experience across business analysis, product operations, software quality, systems integration, and data environments.
 
-I've worked with **agile environments**, **software implementation**, and **test automation**,  
-always focused on improving data flows, integrating processes, and supporting development teams.
+My background allows me to bridge business and technical teams - translating requirements into scalable solutions while ensuring governance, reliability, observability, and security across systems.
 
 ---
 
-###  Learn Python while playing!
-Here are some fun and interactive platforms that help you improve your **Python skills** while having fun:
-
-- 🎮 [**CodeCombat**](https://codecombat.com)  Learn Python through an RPG-style coding adventure.
-- 🤖[**The Farmer Was Replaced**](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)  A puzzle automation game on Steam where you code robots to run a farm using Python logic.  
-- 🗺️ [**CheckiO**](https://py.checkio.org/)  Solve challenges and progress through an interactive map.  
-- 🧩 [**CodinGame**](https://www.codingame.com)  Build games and solve logic puzzles using Python.
-
-
----
-
-###  Let's connect!
+### 🤝 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieli-baviera/)
-
-<!--
-**danibaviera/danibaviera** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I'm currently working on ...
--  I'm currently learning ...
--  I'm looking to collaborate on ...
--  I'm looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
