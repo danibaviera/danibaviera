@@ -1,6 +1,6 @@
 ﻿# 👋 Hi there! I'm Dani
 
-💬 *Learning, building, and evolving every day - one challenge at a time* 🚀
+🧭 *A mixture of Business & Product → Requirements → Data & Systems → Governance → Security & Operation* 🚀
 
 🗄️ Currently studying **Database Engineering and Data Governance (PUC)**  
 🎓 **Postgraduate in Software Development (FIAP)**  
@@ -94,13 +94,16 @@ I connect product thinking, business analysis, data engineering, governance, and
 - 🐍 Python automation
 - ⚙️ Process automation and ETL pipelines
 - ✅ Data validation and quality assurance
-- 🗄️ Database Administration (DBA) and data modeling
 - 🧪 System and API testing (manual & automated)
-- 🔗 Integration of systems and API communication
-- 🧱 Continuous learning in software architecture and DevOps
-- 🧭 Data Governance & Data Architecture
+- 🔗 Systems integration and API communication
+
+- 🗄️ Database Administration (DBA) and data modeling
 - 🛡️ Database Reliability Engineering
 - 📡 Observability Engineering
+
+- 🧭 Data Governance & Data Architecture
+- 🧱 Software Architecture and DevOps practices
+
 - 📈 Technical Product Operations
 
 ---
