@@ -73,7 +73,6 @@ My background allows me to bridge business and technical teams — translating r
 <br>
 
 **📦 Product & Business Analysis:**  
-![Product Strategy](https://img.shields.io/badge/-Product%20Strategy-2563EB?style=for-the-badge&logo=target&logoColor=white)
 ![Roadmap & Backlog](https://img.shields.io/badge/-Roadmap%20%26%20Backlog-0284C7?style=for-the-badge&logo=mapbox&logoColor=white)
 ![Agile Delivery](https://img.shields.io/badge/-Agile%20Delivery-0EA5E9?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Requirements Engineering](https://img.shields.io/badge/-Requirements%20Engineering-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white)
