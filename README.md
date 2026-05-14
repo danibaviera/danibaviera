@@ -15,7 +15,7 @@ I connect product thinking, business analysis, data engineering, governance, and
 ### 🙋 A bit about me
 I work at the intersection of business analysis, product operations, software quality, and data systems — connecting requirements to reliable, scalable, and well-governed technical solutions.
 
-My background allows me to bridge business and technical teams - translating requirements into scalable solutions while ensuring governance, reliability, observability, and security across systems.
+My background allows me to bridge business and technical teams — translating requirements into scalable solutions while ensuring governance, reliability, observability, and security across systems.
 
 ---
 
@@ -56,24 +56,20 @@ My background allows me to bridge business and technical teams - translating req
 ![Performance Tuning](https://img.shields.io/badge/-Performance%20Tuning-0A66C2?style=for-the-badge&logo=speedtest&logoColor=white)
 ![DB Monitoring](https://img.shields.io/badge/-DB%20Monitoring-1F6FEB?style=for-the-badge&logo=datadog&logoColor=white)
 ![Data Pipelines](https://img.shields.io/badge/-Data%20Pipelines-0E7490?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Data Quality](https://img.shields.io/badge/-Data%20Quality-2E8B57?style=for-the-badge&logo=checkmarx&logoColor=white)
 <br>
 
 **🧭 Data Governance & Compliance:**  
-![DMBoK](https://img.shields.io/badge/-DMBoK%20Framework-6B21A8?style=for-the-badge&logo=bookstack&logoColor=white)
+![DMBoK Framework](https://img.shields.io/badge/-DMBoK%20Framework-6B21A8?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Data Governance](https://img.shields.io/badge/-Data%20Governance-7C3AED?style=for-the-badge&logo=opencollective&logoColor=white)
 ![Data Cataloging](https://img.shields.io/badge/-Data%20Cataloging-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
-![LGPD](https://img.shields.io/badge/-LGPD-DC2626?style=for-the-badge&logo=shield&logoColor=white)
-![GDPR](https://img.shields.io/badge/-GDPR-B91C1C?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Privacy Compliance](https://img.shields.io/badge/-Privacy%20Compliance-DC2626?style=for-the-badge&logo=shield&logoColor=white)
 <br>
 
 **🔐 Cybersecurity & Access Architecture:**  
 ![Zero Trust](https://img.shields.io/badge/-Zero%20Trust-111827?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![ISO 27001](https://img.shields.io/badge/-ISO%2FIEC%2027001-0F172A?style=for-the-badge&logo=verizon&logoColor=white)
-![ISO 27003](https://img.shields.io/badge/-ISO%2FIEC%2027003-1E293B?style=for-the-badge&logo=probot&logoColor=white)
 ![Security Governance](https://img.shields.io/badge/-Security%20Governance-334155?style=for-the-badge&logo=keycloak&logoColor=white)
-![SOC Basics](https://img.shields.io/badge/-Basic%20SOC%20Ops-475569?style=for-the-badge&logo=security&logoColor=white)
-![Threat Intel](https://img.shields.io/badge/-Threat%20Intel%20%26%20Risk-1D4ED8?style=for-the-badge&logo=threatconnect&logoColor=white)
+![Vulnerability & Threat Intelligence](https://img.shields.io/badge/-Vulnerability%20%26%20Threat%20Intelligence-1D4ED8?style=for-the-badge&logo=threatconnect&logoColor=white)
 <br>
 
 **📦 Product & Business Analysis:**  
@@ -98,14 +94,10 @@ My background allows me to bridge business and technical teams - translating req
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Integration Testing](https://img.shields.io/badge/-System%20Integration%20Testing-15803D?style=for-the-badge&logo=testinglibrary&logoColor=white)
-![API Validation](https://img.shields.io/badge/-API%20Validation-16A34A?style=for-the-badge&logo=swagger&logoColor=white)
-![QA](https://img.shields.io/badge/-Software%20QA-22C55E?style=for-the-badge&logo=qase&logoColor=white)
 <br>
 
 **☁️ Cloud & Infrastructure:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/-EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/-S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
