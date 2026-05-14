@@ -48,6 +48,10 @@ My background allows me to bridge business and technical teams — translating r
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 <br>
+**🤖 AI-Augmented Engineering:**  
+![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+<br>
 
 **🗃️ Databases & Data Engineering:**  
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
