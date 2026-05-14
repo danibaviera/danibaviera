@@ -50,7 +50,7 @@ My background allows me to bridge business and technical teams — translating r
 <br>
 
 **🤖 AI-Augmented Engineering:**  
-![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?style=for-the-badge&logo=amazonbedrock&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 <br>
 
