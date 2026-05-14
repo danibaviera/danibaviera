@@ -1,14 +1,39 @@
 ﻿# 👋 Hi there! I'm Dani
 
-🧭 *A mixture of Business & Product → Requirements → Data & Systems → Governance → Security & Operation* 🚀
+🧭 *Bridging Product, Requirements, Data & Systems, Governance, Security, and Operations* 🚀
 
 🗄️ Currently studying **Database Engineering and Data Governance (PUC)**  
 🎓 **Postgraduate in Software Development (FIAP)**  
 🎓 **Graduated in Big Data & Analytics (FMU)**  
-📚 **Product Management Specialization - PM3**  
-💡 I venture into **Python**, **data automation**, and **software quality**
+📚 **Product Management Specialization ([PM3](https://pm3.com.br/))**  
+💡 Focused on **Python automation**, **data engineering**, and **software quality**
 
 I connect product thinking, business analysis, data engineering, governance, and security architecture to build reliable and scalable systems.
+
+---
+
+### 🙋 A bit about me
+I work at the intersection of business analysis, product operations, software quality, and data systems — connecting requirements to reliable, scalable, and well-governed technical solutions.
+
+My background allows me to bridge business and technical teams - translating requirements into scalable solutions while ensuring governance, reliability, observability, and security across systems.
+
+---
+
+### 💡 Areas of interest
+- 🐍 Python automation
+- ⚙️ Process automation and ETL pipelines
+- ✅ Data validation and quality assurance
+- 🧪 System and API testing (manual & automated)
+- 🔗 Systems integration and API communication
+
+- 🗄️ Database Administration (DBA) and data modeling
+- 🛡️ Database Reliability Engineering
+- 📡 Observability Engineering
+
+- 🧭 Data Governance & Data Architecture
+- 🧱 Software Architecture and DevOps practices
+
+- 📈 Technical Product Operations
 
 ---
 
@@ -52,14 +77,11 @@ I connect product thinking, business analysis, data engineering, governance, and
 <br>
 
 **📦 Product & Business Analysis:**  
-![Product Vision](https://img.shields.io/badge/-Product%20Vision-2563EB?style=for-the-badge&logo=target&logoColor=white)
-![Product Lifecycle](https://img.shields.io/badge/-Product%20Lifecycle-1D4ED8?style=for-the-badge&logo=cycle&logoColor=white)
-![Roadmap](https://img.shields.io/badge/-Roadmap-0284C7?style=for-the-badge&logo=mapbox&logoColor=white)
-![Backlog](https://img.shields.io/badge/-Backlog-0369A1?style=for-the-badge&logo=task&logoColor=white)
-![Agile Product Dev](https://img.shields.io/badge/-Agile%20Product%20Dev-0EA5E9?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Product Strategy](https://img.shields.io/badge/-Product%20Strategy-2563EB?style=for-the-badge&logo=target&logoColor=white)
+![Roadmap & Backlog](https://img.shields.io/badge/-Roadmap%20%26%20Backlog-0284C7?style=for-the-badge&logo=mapbox&logoColor=white)
+![Agile Delivery](https://img.shields.io/badge/-Agile%20Delivery-0EA5E9?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Requirements Engineering](https://img.shields.io/badge/-Requirements%20Engineering-0891B2?style=for-the-badge&logo=readthedocs&logoColor=white)
-![User Stories](https://img.shields.io/badge/-User%20Stories%20%26%20Docs-0E7490?style=for-the-badge&logo=storybook&logoColor=white)
-![UX/UI Fundamentals](https://img.shields.io/badge/-UX%2FUI%20Fundamentals-14B8A6?style=for-the-badge&logo=figma&logoColor=white)
+![UX/UI Foundations](https://img.shields.io/badge/-UX%2FUI%20Foundations-14B8A6?style=for-the-badge&logo=figma&logoColor=white)
 <br>
 
 **🛠️ Product & Collaboration Tools:**  
@@ -87,31 +109,6 @@ I connect product thinking, business analysis, data engineering, governance, and
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br>
-
----
-
-### 💡 Areas of interest
-- 🐍 Python automation
-- ⚙️ Process automation and ETL pipelines
-- ✅ Data validation and quality assurance
-- 🧪 System and API testing (manual & automated)
-- 🔗 Systems integration and API communication
-
-- 🗄️ Database Administration (DBA) and data modeling
-- 🛡️ Database Reliability Engineering
-- 📡 Observability Engineering
-
-- 🧭 Data Governance & Data Architecture
-- 🧱 Software Architecture and DevOps practices
-
-- 📈 Technical Product Operations
-
----
-
-### 🙋 A bit about me
-I'm a Systems Analyst with experience across business analysis, product operations, software quality, systems integration, and data environments.
-
-My background allows me to bridge business and technical teams - translating requirements into scalable solutions while ensuring governance, reliability, observability, and security across systems.
 
 ---
 
