@@ -2,8 +2,6 @@
 
 🧭 *Connecting business, product, data, and technology through Requirements Engineering, Software Testing, Data Analysis, and Data Governance.* 🚀
 
-I help transform business needs into reliable, scalable, and high-quality solutions by connecting requirements, software quality, data, and processes.
-
 ---
 
 ## 🌐 Socials
