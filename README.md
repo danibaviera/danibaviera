@@ -27,12 +27,11 @@ I work at the intersection of **Service Design, Product, Business Analysis and S
 ![Process Mapping](https://img.shields.io/badge/-Process%20Mapping-0284C7?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/-BPMN-0369A1?style=for-the-badge)
 ![Service Improvement](https://img.shields.io/badge/-Service%20Improvement-0891B2?style=for-the-badge)
-![Root Cause Analysis](https://img.shields.io/badge/-Root%20Cause%20Analysis-0E7490?style=for-the-badge)
 ![Customer Enablement](https://img.shields.io/badge/-Customer%20Enablement-155E75?style=for-the-badge)
 
 ---
 
-## 📦 Product & Business Analysis
+## 📦 Product Ops & Business Analysis
 
 ![Product Analysis](https://img.shields.io/badge/-Product%20Analysis-4F46E5?style=for-the-badge)
 ![Requirements Analysis](https://img.shields.io/badge/-Requirements%20Analysis-6366F1?style=for-the-badge)
@@ -62,6 +61,8 @@ I work at the intersection of **Service Design, Product, Business Analysis and S
 ## 🧪 Software Quality & Validation
 
 ![Functional Testing](https://img.shields.io/badge/-Functional%20Testing-4F46E5?style=for-the-badge)
+![Integration Testing](https://img.shields.io/badge/-Integration%20Testing-6B21A8?style=for-the-badge)
+![Usability Testing](https://img.shields.io/badge/-Usability%20Testing-EC4899?style=for-the-badge)
 ![Regression Testing](https://img.shields.io/badge/-Regression%20Testing-6B21A8?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/-API%20Testing-0EA5E9?style=for-the-badge)
 ![UAT](https://img.shields.io/badge/-UAT-312E81?style=for-the-badge)
