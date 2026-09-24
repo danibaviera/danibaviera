@@ -5,6 +5,7 @@
 I work at the intersection of **Service Design, Product, Business Analysis and Service Operations**, combining a strong technical background in systems, software quality, data and integrations.
 
 🌐 **Let's connect:**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieli-baviera/)
 
 ---
